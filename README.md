@@ -1,2 +1,2 @@
-# zombie-
+# Zombiee
 Minigame for tshock 
